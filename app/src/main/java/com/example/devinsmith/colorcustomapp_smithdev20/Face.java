@@ -13,7 +13,7 @@ import java.util.Random;
  * <!--Class Face-->
  *     draws face based on input by user
  * Author @ Devin Smith on 2/7/18.
- * Draws face
+ *
  */
 
 public class Face extends SurfaceView {
